@@ -15,20 +15,18 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 
 For this project, I was interestested in using Stack Overflow data from 2017 to better understand:
 
-1. How other developers suggested breaking into the field (what education to pursue)?
-2. What factors about an individual contributed to salary?
-3. How bias played a role in the suggestions of developers for how to break into the field?
-4. What was the state of bootcamps for assisting individuals with breaking into developer roles?
-5. How were bootcamps assisting with increasing diversity in tech careers?
+1. Ways to become a developer
+2. Getting into a job placement and salary expectation from bootcamps
+3. Choosing the right company size from Salary and Job Satisfaction perspective.
+
 
 The full set of files related to this course are owned by Udacity, so they are not publicly available here.  However, you can see pieces of the analysis here.  This README also serves as a template for students to follow in creating their own project README files.
 
 
 ## File Descriptions <a name="files"></a>
 
-There are 3 notebooks available here to showcase work related to the above questions.  Each of the notebooks is exploratory in searching through the data pertaining to the questions showcased by the notebook title.  Markdown cells were used to assist in walking through the thought process for individual steps.  
+There are 1 notebook available here to showcase work related to the above questions.  The file is exploratory in searching through the data pertaining to the questions showcased by the notebook title.  Markdown cells were used to assist in walking through the thought process for individual steps.  
 
-There is an additional `.py` file that runs the necessary code to obtain the final model used to predict salary.
 
 ## Results<a name="results"></a>
 
@@ -36,5 +34,5 @@ The main findings of the code can be found at the post available [here](https://
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-Must give credit to Stack Overflow for the data.  You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/stackoverflow/so-survey-2017/data).  Otherwise, feel free to use the code here as you would like! 
+Must give credit to Stack Overflow for the data.  Also give credit to Udacity as I am reusign some of the functions / code from the course. You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/stackoverflow/so-survey-2017/data).  Otherwise, feel free to use the code here as you would like! 
 
